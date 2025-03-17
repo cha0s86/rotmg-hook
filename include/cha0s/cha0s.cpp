@@ -31,7 +31,7 @@
 #endif
 
 #if CHA0S_USE_MINHOOK
-# include "minhook/include/MinHook.h"
+# include "minhook/include/minhook.h"
 #endif
 
 #ifdef _UNICODE
